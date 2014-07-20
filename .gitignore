@@ -1,2 +1,9 @@
-*~
+*.log
+*.pot
 *.pyc
+*.egg
+*.egg-info
+build/
+dist/
+local_settings.py
+.ropeproject
